@@ -1,6 +1,7 @@
 redis:5.0.7
 mariadb:10.11
 memcached:1.5.6
+keking/kkfileview:4.1.0
 
 nginx
 #支持私库
